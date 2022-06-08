@@ -7,6 +7,8 @@ import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
+
+//I am present in local are you able to see me in global???
 public class BaseTest implements IAutoConsts{
 
 	public static WebDriver driver;
